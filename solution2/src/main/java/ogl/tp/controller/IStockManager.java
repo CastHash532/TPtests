@@ -1,6 +1,6 @@
-package com.example.controller;
+package ogl.tp.controller;
 
-import com.example.entity.Product;
+import ogl.tp.entity.Product;
 
 public interface IStockManager {
 

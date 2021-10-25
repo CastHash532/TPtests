@@ -1,8 +1,8 @@
-package com.example.controller;
+package ogl.tp.controller;
 
-import com.example.dao.OrderDao;
-import com.example.entity.Order;
-import com.example.entity.Orderline;
+import ogl.tp.dao.OrderDao;
+import ogl.tp.entity.Order;
+import ogl.tp.entity.Orderline;
 
 import java.util.List;
 

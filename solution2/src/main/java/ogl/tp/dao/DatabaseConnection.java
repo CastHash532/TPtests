@@ -1,6 +1,6 @@
-package com.example.dao;
+package ogl.tp.dao;
 
-import com.example.entity.Order;
+import ogl.tp.entity.Order;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

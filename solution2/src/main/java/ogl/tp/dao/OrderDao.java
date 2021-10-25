@@ -1,8 +1,8 @@
-package com.example.dao;
+package ogl.tp.dao;
 
-import com.example.entity.Order;
-import com.example.entity.Orderline;
-import com.example.entity.Product;
+import ogl.tp.entity.Order;
+import ogl.tp.entity.Orderline;
+import ogl.tp.entity.Product;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -1,7 +1,7 @@
-package com.example.dao;
+package ogl.tp.dao;
 
-import com.example.entity.Order;
-import com.example.entity.Payment;
+import ogl.tp.entity.Order;
+import ogl.tp.entity.Payment;
 
 public class PaymentDao {
 

@@ -1,4 +1,4 @@
-package com.example.entity;
+package ogl.tp.entity;
 
 public class Product {
 

@@ -1,6 +1,6 @@
-package com.example.dao;
+package ogl.tp.dao;
 
-import com.example.entity.Product;
+import ogl.tp.entity.Product;
 
 public class StockDao {
 

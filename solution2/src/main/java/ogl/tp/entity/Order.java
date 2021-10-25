@@ -1,4 +1,4 @@
-package com.example.entity;
+package ogl.tp.entity;
 
 import java.util.Date;
 import java.util.List;

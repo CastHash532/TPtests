@@ -1,7 +1,7 @@
-package com.example.controller;
+package ogl.tp.controller;
 
-import com.example.entity.Order;
-import com.example.entity.Payment;
+import ogl.tp.entity.Order;
+import ogl.tp.entity.Payment;
 
 public interface IPayementManager {
 
