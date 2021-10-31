@@ -114,6 +114,8 @@ public class OrderDao {
             String sql2 = " DELETE FROM orderlines WHERE orderNum=?" ;
             pstmt2 = conn.prepareStatement(sql2);
             pstmt2.setInt(1,orderNum);
+            pstmt1.executeUpdate();
+            pstmt2.executeUpdate();
             conn.commit();
         } catch (SQLException se) {
             se.printStackTrace();
