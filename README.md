@@ -9,4 +9,4 @@ OGL Cours source code
 [rapport MatrixMathematics.java](solution/assets/pitest.pdf)
 
 ## solution2
-![capture](solution2/assets/01.PNG)
+![capture](solution2/assets/01.png)
