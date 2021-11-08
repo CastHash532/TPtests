@@ -1,0 +1,10 @@
+tasks:
+  - name: Exo1 build, test, coverage
+    before: cd Exo1
+    init: mvn install
+    command: mvn org.pitest:pitest-maven:mutationCoverage
+
+  - name: Exo2 build, test, coverage
+    before: cd Exo2
+    init: mvn install
+    command: mvn org.pitest:pitest-maven:mutationCoverage
